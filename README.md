@@ -1,5 +1,5 @@
-<h1><p align = "center">Exploratory Data Analysis On Haberman Dataset</p></h1>
-
+<p align = "center"><image src = 'https://github.com/mohan-kartik/EDA-on-Haberman-Dataset/assets/42971268/59562b23-7d01-4cc1-8f2b-00cbf894595b' width=300></p>
+  
 ## Project Objective:
 To predict whether a patient will survive 5 years or more after the operation based on age, year of operation and the number of positive axillary nodes.   
 
